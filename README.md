@@ -1,2 +1,2 @@
 # Discord-Rich-Presence-Example
-Discord Rich Presence Example Using DiscordRichPresence Nugest Package By Lachee
+Discord Rich Presence Example Using DiscordRichPresence Nuget Package By Lachee
